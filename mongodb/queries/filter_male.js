@@ -1,0 +1,1 @@
+db.athletes.find({ gender: "M" });

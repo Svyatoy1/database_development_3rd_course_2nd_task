@@ -1,0 +1,1 @@
+HMSET result:1 result_id 1 athlete_id 5555 event_id 10 points 91

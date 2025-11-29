@@ -1,0 +1,6 @@
+SADD event_results:10 1 2
+
+SMEMBERS event_results:10
+
+HGET result:1 points
+HGET result:2 points

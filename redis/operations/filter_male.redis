@@ -1,0 +1,7 @@
+SADD gender:M 5555 5557
+SADD gender:F 5556
+
+SMEMBERS gender:M
+
+HGETALL athlete:5555
+HGETALL athlete:5557

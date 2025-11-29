@@ -1,0 +1,1 @@
+HMSET event:10 event_id 10 name "Біг 100м" sport_id 1 event_type_id 3

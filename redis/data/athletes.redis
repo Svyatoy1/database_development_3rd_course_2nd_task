@@ -1,0 +1,2 @@
+HMSET athlete:5555 athlete_id 5555 first_name "Name5555" last_name "Last5555" gender "M"
+HMSET athlete:5556 athlete_id 5556 first_name "Name5556" last_name "Last5556" gender "F"

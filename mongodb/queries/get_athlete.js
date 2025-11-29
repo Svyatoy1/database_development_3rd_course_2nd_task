@@ -1,0 +1,1 @@
+db.athletes.find({ athlete_id: 5555 });
