@@ -1,0 +1,1 @@
+SELECT * FROM athletes_sql WHERE gender = 'M';
